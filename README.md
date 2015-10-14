@@ -1,7 +1,7 @@
 # bootstrap
 Capricoin Blockchain bootstrap
 
-Capricoin-QT/capricoind supports a special import feature: If the file "bootstrap.dat" is found in the Capricoin directory (C:\users\<username>\AppData\Roaming\Capricoin\), it will validate and import all blockchain data found in that file.
+Capricoin-QT/capricoind supports a special import feature: If the file "bootstrap.dat" is found in the Capricoin directory (C:\users\ <username> \AppData\Roaming\Capricoin\), it will validate and import all blockchain data found in that file.
 
 ----------------------
 What is bootstrap.dat?
