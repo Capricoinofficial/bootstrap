@@ -19,17 +19,3 @@ Why should I trust you?
 
 You don't have to; This is raw blockchain data.  The client will verify this data during import.
 Independent third parties may generate their own bootstrap.dat, up to a recent height, and verify that the sha256sum matches that posted below.  
-
------------------------
-
-Okay, tell me where do I get it?
-
-You can download the files below.
-
-ZIP : https://github.com/Capricoinofficial/bootstrap/releases/download/latest/bootstrap.dat.zip
-
-MD5 : https://github.com/Capricoinofficial/bootstrap/releases/download/latest/md5.txt
-
-SHA256 : https://github.com/Capricoinofficial/bootstrap/releases/download/latest/sha256.txt
-
-Updated on 14th October; Block 136627
